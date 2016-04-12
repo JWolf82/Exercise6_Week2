@@ -1,0 +1,28 @@
+#updateForm {
+    width: 250px;
+}
+
+button {
+    margin-left: 35px;
+    margin-top: 5px;
+    background-color: lightblue;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: lightgreen;
+}
+
+#viewForm {
+ width: 100px;
+ text-align: center;
+ background-color: lightblue;
+}
+
+#viewForm:hover {
+    background-color: lightgreen;
+}
+
+#updateForm {
+    display: none;
+}
